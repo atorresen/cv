@@ -1,0 +1,58 @@
+body {
+  font-family: monospace;
+  font-weight: lighter;
+  margin: 2rem 4rem;
+  background-color: #f5ffff
+}
+
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid #dddddd;
+  margin: 2rem 0;
+}
+
+/* black & lightblue tiles */
+.b {
+  background-color: black;
+  color: lightblue;
+  padding: 0.3rem;
+}
+
+.w {
+  background-color: lightblue;
+  color: black;
+  padding: 0.3rem;
+}
+
+/* venn diagram (devmode) */
+/* svg {
+  position: absolute
+}
+
+text {
+  font-size: 10.5px;
+  line-height: 1.25;
+}
+
+.outer {
+  fill: tomato;
+}
+
+.mid {
+  fill: orange;
+}
+
+.inner {
+  fill: lightblue;
+}
+
+.text {
+  fill: white
+}
+
+#venn a:hover .outer, #venn a:active .outer,
+#venn a:hover .mid, #venn a:active .mid,
+#venn a:hover .inner, #venn a:active .inner {
+  fill: black;
+} */
