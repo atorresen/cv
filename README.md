@@ -1,2 +1,2 @@
 # cv
-from Web Development course
+https://atorresen.github.io/cv/index.html
